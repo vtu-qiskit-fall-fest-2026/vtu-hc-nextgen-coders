@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **NextGen Coders** · Team ID `VTU-QFF-HC-0006` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#NextGen Coders)
+[⬆ Back to Top](#nextgen-coders)
 
 </div>
