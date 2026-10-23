@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -55,3 +56,10 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+=======
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+>>>>>>> 6bb99f0 (Initial project upload)
